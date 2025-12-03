@@ -4,3 +4,5 @@
 # This is a new script for github training
 
 x <- 2+2
+
+y <- 3+3
